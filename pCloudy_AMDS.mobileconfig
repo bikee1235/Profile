@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HasRemovalPasscode</key>
+	<true/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures a password for profile removal</string>
+			<key>PayloadDisplayName</key>
+			<string>Profile Removal</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.profileRemovalPassword.2AD5DD21-7474-4712-BD55-BBA46D1F08EE</string>
+			<key>PayloadType</key>
+			<string>com.apple.profileRemovalPassword</string>
+			<key>PayloadUUID</key>
+			<string>2AD5DD21-7474-4712-BD55-BBA46D1F08EE</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>Smart@amds.com</string>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.565A557A-D695-47ED-9CB2-92BEF74E4936</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>565A557A-D695-47ED-9CB2-92BEF74E4936</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>pCloudy_AMDS</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>pCloudy_AMDS</string>
+	<key>PayloadIdentifier</key>
+	<string>Bikees-MacBook-Pro.6B6FE13A-0668-4E71-A208-6BA123C541A0</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>585D67BC-5921-4003-8593-016B93C4FA95</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
