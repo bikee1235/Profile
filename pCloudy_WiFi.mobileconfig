@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>pCloudy_Wifi Profile</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string> Smart@Yotta.co.in </string>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.212EB862-EFDF-4BA2-8C8E-E4B9D7EAA385</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>212EB862-EFDF-4BA2-8C8E-E4B9D7EAA385</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>pCloudy_WiFi</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>pCloudy_Wifi Profile</string>
+	<key>PayloadDisplayName</key>
+	<string>pCloudy_WiFi</string>
+	<key>PayloadIdentifier</key>
+	<string>Bikees-MacBook-Pro.D06F90C7-D9B6-423C-B3DC-89D1665A0C5A</string>
+	<key>PayloadOrganization</key>
+	<string>SSTS Inc</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>AD0B9334-E890-470D-A34A-B12F17405F09</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
