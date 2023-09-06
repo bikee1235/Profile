@@ -1,0 +1,8 @@
+view.flows.load 
+set intercept ''
+set intercept ''
+set intercept 'http''
+view.flows.load 
+view.flows.load 8080
+q!
+set intercept 'get''
