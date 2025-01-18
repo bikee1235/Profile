@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>mitmproxy-ca-cert.cer</string>
+			<key>PayloadContent</key>
+			<data>
+			LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSUROVENDQWgy
+			Z0F3SUJBZ0lVTlU1bmRHQjNIUzM5Z1drVjd1a2RTN1hSS2RJd0RR
+			WUpLb1pJaHZjTkFRRUwKQlFBd0tERVNNQkFHQTFVRUF3d0piV2ww
+			YlhCeWIzaDVNUkl3RUFZRFZRUUtEQWx0YVhSdGNISnZlSGt3SGhj
+			TgpNalF3TVRBM01UazFNVEUxV2hjTk16UXdNVEEyTVRrMU1URTFX
+			akFvTVJJd0VBWURWUVFEREFsdGFYUnRjSEp2CmVIa3hFakFRQmdO
+			VkJBb01DVzFwZEcxd2NtOTRlVENDQVNJd0RRWUpLb1pJaHZjTkFR
+			RUJCUUFEZ2dFUEFEQ0MKQVFvQ2dnRUJBTDN4QW1sbmRHSHNXeWdj
+			RmpFUDdTRUNzdXhGbDR1cDEwd0YydWFYUUE2d3M0RmhCUjFiZUdu
+			TgpCSlV5Y09BREN5VHg3SDRJVXdPZ2o0a2xGQjhQam8xR2NScXA0
+			TWs2aGFVaVl5bUhON2VPVmlxd1MwcnRXdUJ3Cm1tanBNdjBsQndj
+			OFpVUHZuUnZNTWg4djNuOTBNS1BUY3lLVXV5V0hGR3dmTWZPQ01H
+			THpTeGFKN1E5VG85Uk0KVjk5bndkdExIN0FYOUF0S0VvVlNEVzl4
+			alBhNDhCZHY3cjN3NkgyWXhQRXU5RkNMWTNKbE1JYUNwc09GVUxs
+			Ngo4NE9xTDJFS1ppOE9vR01mSDRXWE9DSklHenFDZjNKTU5yNXBD
+			UGF0UlZwVHEyR2JuZmFQQ2RlQkpiWTFVT2lOCnRhcEpIWnlnQXVp
+			QmpCOG44K2gvUVMxUmZiejFtM1VDQXdFQUFhTlhNRlV3RHdZRFZS
+			MFRBUUgvQkFVd0F3RUIKL3pBVEJnTlZIU1VFRERBS0JnZ3JCZ0VG
+			QlFjREFUQU9CZ05WSFE4QkFmOEVCQU1DQVFZd0hRWURWUjBPQkJZ
+			RQpGT2QyWmpJSDdIa1piRGVpZDN1UHZnVXp5Z0orTUEwR0NTcUdT
+			SWIzRFFFQkN3VUFBNElCQVFDZ0x1dG85UTF1CmxjNkUzQWdGcyt6
+			YVZQVm4zdjJ4MXdLMnh3bGNndVVWLzBUQ0hIQnFrS1BqLzRubDJY
+			bS9zdkZCRmNBeG5pZUoKVlQyalQ5QlFBbTJ5YlRkdVNKTVpZNUxr
+			bnRpOFlxSmJrVC9SSUtTdWJhalVORWMzS0lKZVpDR1hVOHBVc2Rv
+			agpRS2pKVytMdXJNVmhKV0s2YVNmT3Rxc0dGWGNNV3puUlp0Qk51
+			UHpodlMxdVRoUnVBeStMODRyMUpkUC8zTmlDCi9pME9SN0FhV3Q4
+			eUlnRzJEK1ZwRkZqV0VRQWhFcVJkVzBHS2lUQ1o3RkI3d2tNSnhM
+			aysyM0JFcnRXTkFyWEEKN3VUVURpSnJiVGk1OFFjZXNxbkJxSkFo
+			QVVjdlhtSWxIamxSTExpNVpHK08rdElrUFRib01VRXBYY0FTcDMv
+			QworbFFnYkRZVFdybXUKLS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0t
+			LQo=
+			</data>
+			<key>PayloadDescription</key>
+			<string>Adds a CA root certificate</string>
+			<key>PayloadDisplayName</key>
+			<string>mitmproxy</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.security.root.921FD81D-637A-4A97-9651-52459017D146</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>921FD81D-637A-4A97-9651-52459017D146</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>mitmproxy</string>
+	<key>PayloadIdentifier</key>
+	<string>MacBook-Pro.2F7985F4-9250-4577-9264-F30F7196D2FB</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>AB5A4F95-3A6F-4C34-8464-1216A7D8F989</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
